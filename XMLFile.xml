@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookStore> 
+    <book>
+        <bookName>《三国演义》</bookName>
+        <author>罗贯中</author>
+        <price>200</price>
+    </book>
+    <book>
+        <bookName>《西游记》</bookName>
+        <author>吴承恩</author>
+        <price>8</price>
+    </book>
+    <book>
+        <bookName>《水浒传》</bookName>
+        <author>施耐庵</author>
+        <price>30</price>
+    </book>
+    <book>
+        <bookName>《红楼梦》</bookName>
+        <author>曹雪芹</author>
+        <price>50</price>
+    </book>
+</bookStore>
